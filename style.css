@@ -1,0 +1,38 @@
+.Baslik
+{
+    font-size: 25pt;
+    color: rgb(177, 82, 47);
+}
+.miniArea
+{
+    width: 150px;
+    height: 20px;
+    background-color: bisque;
+    float: left;
+    margin-left: 15px;
+}
+.iconStyle
+{
+    width: 20px;
+}
+.mainImgArea
+{
+    
+    float: left;
+    
+}
+.malzeme
+{
+    background-color: palegoldenrod;
+    width: 240px;
+    margin-left: 7px;
+}
+
+.number
+{
+    float: left;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    background-color: lightgray;
+}
